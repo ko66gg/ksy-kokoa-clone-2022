@@ -3,11 +3,12 @@
     display: flex;
     justify-content: center;
     padding: 5px 3px;
-    position: fixed;
+    position: sticky;
     border-top: 0;
     box-sizing: border-box;
     width: 100%;
     top: 0;
+
     }
     .status-bar__colum{
         width:33%;
